@@ -7,7 +7,7 @@ En el dataset disponible, se cuenta con los mismos clientes que han generado un 
 
 En este challenge se deberá responder la siguiente pregunta:
 
-*¿Cuáles son las variables significativas de los clientes que deberíamos tener en cuenta a la hora de invertir en una campaña de marketing de venta de Préstamos Personales?*
+**¿Cuáles son las variables significativas de los clientes que deberíamos tener en cuenta a la hora de invertir en una campaña de marketing de venta de Préstamos Personales?**
 
 
 ## Requisitos
